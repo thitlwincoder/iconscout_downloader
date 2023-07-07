@@ -1,7 +1,7 @@
 name: iconscout_downloader
-description: A sample command-line application.
-version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+description: Iconscout 3D illustration, vectors icons, Photos & Images, Video & Audio Downloader without watermark.
+version: 0.0.1
+repository: https://github.com/thitlwincoder/iconscout_downloader/
 
 environment:
   sdk: ^3.0.5
