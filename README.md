@@ -36,9 +36,13 @@ import 'package:iconscout_downloader/iconscout_downloader.dart';
 ```
 ## Usage
 
-Use `check` class to check your link have been existed my support sites
-
 ```dart
 
 var result = await IconscoutDownloader.get('url'); // add your url
 ```
+
+## Contribution
+
+Feel free to file an [issue](https://github.com/thitlwincoder/iconscout_downloader/issues/new) if you find a problem or make pull requests.
+
+All contributions are welcome :)
